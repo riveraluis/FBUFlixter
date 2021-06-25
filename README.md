@@ -36,8 +36,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+- Creating the Youtube API call was particularly tricky especially dealing with sending the intent correctly.
 
 ## Open-source libraries used
 
